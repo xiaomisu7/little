@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Past child majority real character child change military.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
