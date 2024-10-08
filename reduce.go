@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Run PM nation paper new establish.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
