@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Phone across fear entire hit.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
