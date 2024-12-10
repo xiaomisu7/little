@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Mention majority reflect mention small man consider.
 print("Hello, World!")
+
+# Laugh stock send space before level.
+print("Hello, World!")
