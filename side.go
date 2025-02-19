@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Third player ability.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
