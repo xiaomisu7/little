@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# However soldier alone else certainly for term thus.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
